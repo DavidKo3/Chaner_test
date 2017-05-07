@@ -1,0 +1,86 @@
+[
+    {
+        "dis/loss": 1.5720051527023315,
+        "elapsed_time": 9.935975313186646,
+        "epoch": 0,
+        "gen/loss": 1.4067432880401611,
+        "iteration": 100
+    },
+    {
+        "dis/loss": 1.4032763242721558,
+        "elapsed_time": 19.046285390853882,
+        "epoch": 0,
+        "gen/loss": 0.9951179027557373,
+        "iteration": 200
+    },
+    {
+        "dis/loss": 1.3672375679016113,
+        "elapsed_time": 28.17116355895996,
+        "epoch": 0,
+        "gen/loss": 0.8625398874282837,
+        "iteration": 300
+    },
+    {
+        "dis/loss": 1.3883836269378662,
+        "elapsed_time": 37.33381652832031,
+        "epoch": 0,
+        "gen/loss": 0.8525981307029724,
+        "iteration": 400
+    },
+    {
+        "dis/loss": 1.3177924156188965,
+        "elapsed_time": 46.48210096359253,
+        "epoch": 0,
+        "gen/loss": 0.9016925096511841,
+        "iteration": 500
+    },
+    {
+        "dis/loss": 1.3113120794296265,
+        "elapsed_time": 55.638333797454834,
+        "epoch": 0,
+        "gen/loss": 1.1237564086914062,
+        "iteration": 600
+    },
+    {
+        "dis/loss": 1.349419116973877,
+        "elapsed_time": 65.13043260574341,
+        "epoch": 0,
+        "gen/loss": 0.8698527812957764,
+        "iteration": 700
+    },
+    {
+        "dis/loss": 1.2364884614944458,
+        "elapsed_time": 74.30919146537781,
+        "epoch": 0,
+        "gen/loss": 1.017065405845642,
+        "iteration": 800
+    },
+    {
+        "dis/loss": 1.2010389566421509,
+        "elapsed_time": 83.48608660697937,
+        "epoch": 0,
+        "gen/loss": 1.1703193187713623,
+        "iteration": 900
+    },
+    {
+        "dis/loss": 1.170017123222351,
+        "elapsed_time": 92.65605688095093,
+        "epoch": 1,
+        "gen/loss": 1.217972993850708,
+        "iteration": 1000
+    },
+    {
+        "dis/loss": 1.1888325214385986,
+        "elapsed_time": 108.88720369338989,
+        "epoch": 1,
+        "gen/loss": 1.1858477592468262,
+        "iteration": 1100
+    },
+    {
+        "dis/loss": 1.1478841304779053,
+        "elapsed_time": 118.23350524902344,
+        "epoch": 1,
+        "gen/loss": 1.240501880645752,
+        "iteration": 1200
+    }
+]

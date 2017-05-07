@@ -3,7 +3,7 @@ import chainer
 from chainer import links as L
 from chainer import functions as F
 from chainer import Variable
-
+from chainer import cuda
 class MLP(chainer.Chain): # MultiLayer Perceptron
 
     def __init__(self, n_units, n_out):
@@ -26,3 +26,25 @@ y = model(x)
 
 print ("SDfdf")
 print (y.data)
+
+
+xp = cuda.cupy 
+
+print(cuda.get_device_from_id(0).use())
+
+print(model.to_gpu())
+x_gpu = cuda.cupy.array([1, 2, 3, 4, 5])
+
+
+
+
+
+
+
+
+
+
+
+
+
+
